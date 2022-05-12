@@ -8,7 +8,7 @@
 		<version>2.6.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>pe.com.bank.config</groupId>
+	<groupId>pe.com.bank.config.server</groupId>
 	<artifactId>config-server-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>config-service</name>
